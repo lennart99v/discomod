@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "disco_mod:sapphire"
+    }
+  },
+  "result": {
+    "item": "disco_mod:sapphire_block"
+  }
+}

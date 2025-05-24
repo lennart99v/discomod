@@ -1,0 +1,17 @@
+{
+  "item.disco_mod.sapphire": "Sapphire",
+  "item.disco_mod.raw_sapphire": "Raw Sapphire",
+  "item.disco_mod.metal_detector": "Metal Detector",
+
+  "block.disco_mod.sapphire_block": "Block of Sapphire",
+  "block.disco_mod.raw_sapphire_block": "Raw Sapphire Block",
+
+  "block.disco_mod.sapphire_ore": "Sapphire Ore",
+  "block.disco_mod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.disco_mod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.disco_mod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+  "block.disco_mod.sound_block": "Sound Block",
+
+  "creativetab.disco_tab": "Sapphire Disco Tab"
+}
